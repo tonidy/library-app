@@ -1,1 +1,3 @@
-book7
+buku
+pensil
+penghapus
